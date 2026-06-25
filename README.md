@@ -62,15 +62,16 @@ const faran = {
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=faranrao22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=faranrao22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faranrao22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=faranrao22&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=faranrao22&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=faranrao22&theme=tokyo-night&hide_border=true" />
 
 </div>
+
 
 ---
 
