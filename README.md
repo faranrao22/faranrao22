@@ -1,22 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e3a5f,50:0ea5e9,75:1e3a5f,100:0f172a&height=260&section=header&text=Rao%20Muhammad%20Faran%20Latif&fontSize=52&fontColor=f8fafc&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20MERN%20Developer&descAlignY=58&descSize=20&descColor=7dd3fc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e3a5f,50:0ea5e9,75:1e3a5f,100:0f172a&height=250&section=header&text=Rao%20Muhammad%20Faran%20Latif&fontSize=50&fontColor=f0f9ff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer&descAlignY=58&descSize=20&descColor=7dd3fc" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;Building+Scalable+Modern+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Clean+UI+%2B+Powerful+Backend+Architecture" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Building+Modern+MERN+Applications;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Clean+Code+%2B+Scalable+Architecture" />
 
 <br/><br/>
 
 <a href="https://github.com/faranrao22">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:faranrao525@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=faranrao22&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
 
 </div>
 
@@ -24,27 +22,13 @@
 
 # 👨‍💻 About Me
 
-```js
-const faran = {
-  role: "MERN Stack Developer",
-  location: "Multan, Pakistan",
-  technologies: [
-    "React",
-    "Next.js",
-    "Node.js",
-    "Express.js",
-    "MongoDB",
-    "TypeScript",
-    "Tailwind CSS"
-  ],
-  currentFocus: "Building scalable full stack applications",
-};
-```
+I'm **Rao Muhammad Faran Latif**, a passionate **MERN Stack Developer** focused on building scalable, responsive, and modern web applications.
 
-* 💻 Passionate about modern web technologies
-* ⚡ Focused on scalable backend systems
-* 🎯 Clean UI + performant architecture
-* 🚀 Always learning and improving
+* 💻 Full Stack Web Developer
+* ⚛️ React & Next.js Enthusiast
+* 🚀 Exploring scalable backend architectures
+* 🎯 Focused on clean UI and performant applications
+* 📍 Multan, Pakistan
 
 ---
 
@@ -58,17 +42,15 @@ const faran = {
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=faranrao22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=faranrao22&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faranrao22&layout=compact&theme=tokyonight&hide_border=true" />
+<br/>
 
-<br/><br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=faranrao22&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=faranrao22&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -92,6 +74,6 @@ const faran = {
 
 <div align="center">
 
-### ⭐ "Code. Create. Improve. Repeat."
+### ⭐ "Code. Learn. Build. Repeat."
 
 </div>
